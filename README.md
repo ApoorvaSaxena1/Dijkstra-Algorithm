@@ -19,5 +19,4 @@ Now, we send a signal from a certain node K. How long will it take for all nodes
 Note:
 1) N will be in the range [1, 100].
 2) K will be in the range [1, N].
-3) The length of times will be in the range [1, 6000].
-4) All edges times[i] = (u, v, w) will have 1 <= u, v <= N and 0 <= w <= 100.
+
