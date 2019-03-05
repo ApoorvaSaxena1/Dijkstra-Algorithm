@@ -20,3 +20,5 @@ Note:
 1) N will be in the range [1, 100].
 2) K will be in the range [1, N].
 
+PS: Check the input image to understand the input list times
+
