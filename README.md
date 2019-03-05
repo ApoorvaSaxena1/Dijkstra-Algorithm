@@ -3,12 +3,12 @@
 Code is written in Python 3
 
 Input format:
-->type times: List[List[int]]
-->type N: int
-->type K: int
+1) times: List[List[int]];
+2) N: int;
+3) K: int;
 
 Output format:
-->rtype: int
+1)rtype: int
        
 
 Applying Dijkstra Algorithm on a network delay problem.There are N network nodes, labelled 1 to N.
